@@ -1,0 +1,18 @@
+--2022-11-05 23:21:51--  https://forums.alliedmods.net/attachment.php?attachmentid=195507
+Resolving forums.alliedmods.net (forums.alliedmods.net)... 104.26.9.106, 172.67.73.151, 104.26.8.106, ...
+Connecting to forums.alliedmods.net (forums.alliedmods.net)|104.26.9.106|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 384294 (375K) [application/zip]
+Saving to: ‘attachment.php?attachmentid=195507’
+
+     0K .......... .......... .......... .......... .......... 13%  367K 1s
+    50K .......... .......... .......... .......... .......... 26%  370K 1s
+   100K .......... .......... .......... .......... .......... 39% 12.0M 0s
+   150K .......... .......... .......... .......... .......... 53% 10.5M 0s
+   200K .......... .......... .......... .......... .......... 66%  380K 0s
+   250K .......... .......... .......... .......... .......... 79% 11.6M 0s
+   300K .......... .......... .......... .......... .......... 93%  366K 0s
+   350K .......... .......... .....                           100%  192K=0.7s
+
+2022-11-05 23:21:53 (548 KB/s) - ‘attachment.php?attachmentid=195507’ saved [384294/384294]
+
